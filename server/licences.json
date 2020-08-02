@@ -1,0 +1,73 @@
+[
+    {
+        "licenceNumber": "44556677",
+        "timestamp": "2020-02-21T03:52:40.204Z",
+        "firstName": "PopEye",
+        "lastName": "The Sailorman",
+        "dateOfBirth": "1954-03-22",
+        "mobile": "0400234123",
+        "email": "popeye@sailors.com",
+        "address": {
+            "Street": "14 Sailors Bay Road",
+            "suburb": "Double Bay",
+            "state": "NSW",
+            "postcode": "2028"
+        },
+        "licenceLength": "3 Years",
+        "startDate": "2020-02-21",       
+        "abalone": true,
+        "lobster": true
+    },{
+            "licenceNumber": "44556678",
+            "timestamp": "2020-07-10T14:15:40.204Z",
+            "firstName": "Captain",
+            "lastName": "Ahab",
+            "dateOfBirth": "1851-06-14",
+            "mobile": "0400569482",
+            "email": "cptnahab@oldskool.com",
+            "address": {
+                "Street": "15 Whaleway St",
+                "suburb": "Bronte",
+                "state": "NSW",
+                "postcode": "2024"
+            },
+            "licenceLength": "3 Years",
+            "startDate": "2020-07-13",
+            "abalone": false,
+            "lobster": false
+        },{
+            "licenceNumber": "44556679",
+            "firstName": "Dakkar",
+            "lastName": "Nemo",
+            "dateOfBirth": "1830-12-24",
+            "mobile": "0431697392",
+            "email": "nemo@disney.com",
+            "address": {
+                "Street": "567 Inventors Lane",
+                "suburb": "Double Bay",
+                "state": "NSW",
+                "postcode": "2028"
+            },
+            "licenceLength": "1 month",
+            "startDate": "07/13/2020",
+            "abalone": false,
+            "lobster": true
+        },{
+            "licenceNumber": "44556680",
+            "firstName": "Davey",
+            "lastName": "Jones",
+            "dateOfBirth": "1703-10-31",
+            "mobile": "0432754851",
+            "email": "djones@lockers4u.com",
+            "address": {
+                "Street": "42  Witchery Avenue",
+                "suburb": "Sydney",
+                "state": "NSW",
+                "postcode": "2000"
+            },
+            "licenceLength": "3 years",
+            "startDate": "2020-08-01",
+            "abalone": false,
+            "lobster": false
+        }
+]

@@ -1,0 +1,52 @@
+Fishing Licence
+- Apply
+- List/Search
+- Update
+- Delete
+
+Types of Licence
+3 day
+1 month
+1 year
+3 year
+
+Apply For a Licence
+- First Name
+- Last Name
+- Date of Birth
+----------------------
+- Mobile
+- Email
+- Delivery Address
+----------------------
+- How Long for?
+    -3d / 1m / 1yr / 3yr
+- start date?
+----------------------
+fish for abalone? Y / N
+fish for lobster? Y / N
+----------------------
+terms & cond agreed?
+----------------------
+Pay
+
+
+{
+    "licenceNumber": "44556677",                 //server generated
+    "timestamp": "2020-02-21T03:52:40.204Z",     //server generated
+    "firstName": "PopEye",
+    "lastName": "The Sailorman",
+    "DateOfBirth": "1954-03-22",
+    "mobile": "0400234123",
+    "email": "popeye@sailors.com",
+    "address": {
+        "Street": "14 Sailors Bay Road",
+        "suburb": "Double Bay",
+        "state": "NSW",
+        "postcode": "2028"
+    },
+    "licenceLength": "3 Years",
+    "startDate": "2020-02-21",       
+    "abalone": true,
+    "lobster": true
+}
